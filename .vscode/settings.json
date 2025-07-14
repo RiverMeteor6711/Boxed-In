@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cpptools",
+    "C_Cpp.default.compilerPath": "C:/Users/cj15m/emsdk/upstream/emscripten/emcc.bat",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/cj15m/emsdk/upstream/emscripten/system/include/**"
+    ],
+    "C_Cpp.default.defines": [
+        "__EMSCRIPTEN__",
+        "EMSCRIPTEN"
+    ]
+}
